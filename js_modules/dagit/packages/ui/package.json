@@ -90,7 +90,7 @@
     "rollup-plugin-polyfill-node": "^0.8.0",
     "rollup-plugin-styles": "^4.0.0",
     "typescript": "^4.6.4",
-    "webpack": "^5.0.0"
+    "webpack": "^5.76.0"
   },
   "browserslist": {
     "production": [
